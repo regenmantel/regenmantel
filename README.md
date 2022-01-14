@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yolydev
+- 👋 Hi, I’m @yolydev aka philip.
 - 👀 I’m interested in programming, osu!, pokemon, long walks on the beach, etc
 - 🌱 I’m currently learning how to breathe.
 - 💞️ I’m looking to collaborate on some sick ass code!
